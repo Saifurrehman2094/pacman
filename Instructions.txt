@@ -1,0 +1,8 @@
+1.Press w to move upside
+2.press s to move downwards
+3.press a to move left
+4.press d to move right
+5.press p to pause the game
+6.press x to exit the game
+
+collect coins to win and avoid from the ghost.
